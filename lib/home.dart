@@ -13,7 +13,7 @@ class _HomePageState extends State<HomePage> {
     return const Center(
       child: Text(
         'Sample...',
-        style: TextStyle(color: Colors.white),
+        style: TextStyle(color: Colors.blue),
       ),
     );
   }
