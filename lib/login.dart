@@ -16,7 +16,7 @@ class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Firebase App')),
+      appBar: AppBar(title: const Text('Firebase App - Login')),
       body: Container(
         padding: const EdgeInsets.all(15),
         child: Form(
